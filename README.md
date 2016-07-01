@@ -1,4 +1,4 @@
-# Horseback-s-Quality-Glossary
+# Horseback's Quality Glossary
 #### As a Supplement of [ISO9000](http://www.iso.org/iso/catalogue_detail?csnumber=45481) & [ASQ Quality Glossary](http://asq.org/glossary/)
 
 # Why I creat this project?
