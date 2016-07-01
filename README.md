@@ -9,7 +9,9 @@ ASQ(American Society for Quality) published a sound  [ASQ Quality Glossary](http
 Everyone would be welcome to engage in this project.I plan to make this project under MIT license and make more  Quality guy to engage in.If u hava interest in,just via the below path to get in touch with me.
 
 Published url:[Tool321 Quality](http://www.tool321.com/cn/r/quality.html)
-Issue communication and summit:[click the Issues tab]()
+
+Issue communication and summit:[click the Issues tab](https://github.com/tool321/Horseback-s-Quality-Glossary/issues)
+
 Feedback:tool321@qq.com
 
 Copyright:MIT
